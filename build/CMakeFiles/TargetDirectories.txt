@@ -1,3 +1,0 @@
-/mnt/c/Users/vanya/OOP2025LAB5/build/CMakeFiles/lab5.dir
-/mnt/c/Users/vanya/OOP2025LAB5/build/CMakeFiles/edit_cache.dir
-/mnt/c/Users/vanya/OOP2025LAB5/build/CMakeFiles/rebuild_cache.dir
